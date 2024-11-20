@@ -4,12 +4,12 @@
 }
 
 :root {
-  background: #212;
-  color: violet;
+  background: #518;
+  color: #ec0;
 }
 
 :any-link {
-  color: violet;
+  color: #de1;
 }
 
 @media (prefers-contrast: more) {
